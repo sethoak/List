@@ -7,6 +7,7 @@ namespace ListIntro
     {
         static void Main(string[] args)
         {
+            // Declare a new list variable
             List<int> cohorts = new List<int>();
 
             cohorts.Add(34);
@@ -14,7 +15,7 @@ namespace ListIntro
             cohorts.Add(36);
             cohorts.Add(37);
 
-            //another way to initialize the list(as a string and not a INT)
+            // Another way we can initialize this list
             List<string> classes = new List<string>()
             {
                 "Cohort 34",
@@ -25,10 +26,17 @@ namespace ListIntro
 
             classes.Remove("Cohort 34");
             classes.Add("Cohort 38");
-            //item is a variable
-            foreach (string nssClass in classes)
+
+            foreach (int nssClass in cohorts)
             {
-                Console.WriteLine(nssClass);
+                if (nssClass == 35)
+                {
+                    Console.WriteLine($"The Best Cohort: {nssClass}");
+                }
+                else
+                {
+                    Console.WriteLine($"A Perfectly Fine Cohort: {nssClass}");
+                }
             }
         }
     }
