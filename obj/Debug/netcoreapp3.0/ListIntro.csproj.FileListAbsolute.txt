@@ -1,0 +1,11 @@
+C:\Users\Oakley\Desktop\workspace\ListIntro\bin\Debug\netcoreapp3.0\ListIntro.exe
+C:\Users\Oakley\Desktop\workspace\ListIntro\bin\Debug\netcoreapp3.0\ListIntro.deps.json
+C:\Users\Oakley\Desktop\workspace\ListIntro\bin\Debug\netcoreapp3.0\ListIntro.runtimeconfig.json
+C:\Users\Oakley\Desktop\workspace\ListIntro\bin\Debug\netcoreapp3.0\ListIntro.runtimeconfig.dev.json
+C:\Users\Oakley\Desktop\workspace\ListIntro\bin\Debug\netcoreapp3.0\ListIntro.dll
+C:\Users\Oakley\Desktop\workspace\ListIntro\bin\Debug\netcoreapp3.0\ListIntro.pdb
+C:\Users\Oakley\Desktop\workspace\ListIntro\obj\Debug\netcoreapp3.0\ListIntro.csprojAssemblyReference.cache
+C:\Users\Oakley\Desktop\workspace\ListIntro\obj\Debug\netcoreapp3.0\ListIntro.AssemblyInfoInputs.cache
+C:\Users\Oakley\Desktop\workspace\ListIntro\obj\Debug\netcoreapp3.0\ListIntro.AssemblyInfo.cs
+C:\Users\Oakley\Desktop\workspace\ListIntro\obj\Debug\netcoreapp3.0\ListIntro.dll
+C:\Users\Oakley\Desktop\workspace\ListIntro\obj\Debug\netcoreapp3.0\ListIntro.pdb
