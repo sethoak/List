@@ -25,7 +25,11 @@ namespace ListIntro
 
             classes.Remove("Cohort 34");
             classes.Add("Cohort 38");
-
+            //item is a variable
+            foreach (string nssClass in classes)
+            {
+                Console.WriteLine(nssClass);
+            }
         }
     }
 }
